@@ -1,6 +1,3 @@
-# NGTS
-
-
 ## NGTS
 **N**ext **G**eneration **T**ransport **S**ervice, es una compañía de transporte de paquetería interprovincial dentro del territorio Español.
 
